@@ -13,7 +13,6 @@ Computer Engineering and Digital Technology
 
 
 ## What did I do
-  I do nothing;
 
 ![TherealPingus101's GitHub stats](https://github-readme-stats.vercel.app/api?username=TherealPingus101&show_icons=true&bg_color=00000000)
 ![trophy](https://github-profile-trophy.vercel.app/?username=TherealPingus101&theme=gitdimmed)
